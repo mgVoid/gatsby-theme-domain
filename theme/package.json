@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-theme-julia",
-  "author": "Niklas Metje <hi@niklasmtj.de>",
+  "name": "gatsby-theme-domain",
+  "author": "Modestas Garkevicius <garkeviciusm@gmail.com>",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/niklasmtj/gatsby-theme-julia.git"
+    "url": "https://github.com/mgVoid/gatsby-theme-domain.git"
   },
   "version": "1.0.1",
   "main": "index.js",
